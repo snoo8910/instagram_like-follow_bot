@@ -1,6 +1,6 @@
 from instapy import InstaPy
 
-session = InstaPy(username = '3baprinting', password = 'poggers123')
+session = InstaPy(username = 'ENTER_USERNAME', password = 'ENTER_PASSWORD')
 session.login()
 
 session.set_relationship_bounds(enabled = True, max_followers = 200)
